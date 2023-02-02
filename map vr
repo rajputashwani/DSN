@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>SAMPLE PAGE</title>
+</head>
+
+<body>
+  
+  <table>
+
+    <h1><b>SAMPLE PAGE</b><h1/>
+  <tr>
+
+
+    <td>
+      <!img src="C:\Users\sanka\Downloads1638709034087-01.jpeg" alt="">
+
+
+  <img src="C:\web development\1638709034087-01.jpeg"  height="300" width="300" alt="profile picture">
+
+
+
+      <tr>
+        <td> </td>
+      </tr>
+
+  </table>
+
+
+<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3464.877085287292!2d-95.3480349!3d29.7233195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640be543a04e925%3A0x8f3aa01eceab2146!2sStadium%20Garage%2C%203874%20Holman%20St%2C%20Houston%2C%20TX%2077004%2C%20USA!5e0!3m2!1sen!2sin!4v1673594907916!5m2!1sen!2sin" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
+
+  
+
+
+
+<p><div id="MMqLrAhy2oN"><script type="text/javascript" async data-short="MMqLrAhy2oN" data-path="tours" width="100%" height="500px" src="https://app.cloudpano.com/public/shareScript.js"></script></div></p>
+</p>
+<p><div id="IfLUP2LTpy"><script type="text/javascript" async data-short="IfLUP2LTpy" data-path="tours" width="100%" height="500px" src="https://app.cloudpano.com/public/shareScript.js"></script></div></p>
+
+<p><div id="859R893XXY"><script type="text/javascript" async data-short="859R893XXY" data-path="tours" width="100%" height="500px" src="https://app.cloudpano.com/public/shareScript.js"></script></div></p>
+<p><div id="t1LtFvj5DK"><script type="text/javascript" async data-short="t1LtFvj5DK" data-path="tours" width="100%" height="500px" src="https://app.cloudpano.com/public/shareScript.js"></script></div></p>
+</div>
+</body>
+
+</html>
